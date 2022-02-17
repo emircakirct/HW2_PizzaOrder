@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">HW2_PizzaOrder</string>
+    <string name="totalPrice">Total Price:</string>
+    <string name="pepperoni">Pepperoni</string>
+    <string name="delivery">Delivery?</string>
+    <string name="pizza_order">Pizza Order</string>
+    <string name="choose_pizza_size">Choose pizza size:</string>
+    <string name="choose_your_pizza">Choose your pizza:</string>
+    <string name="extra_toppings_1_69_each">Extra Toppings ($1.69 each):</string>
+    <string name="mushroom">Mushroom</string>
+    <string name="black_olives">Black Olives</string>
+    <string name="extra_cheese">Extra Cheese</string>
+    <string name="med_9_99">Med ($9.99)</string>
+    <string name="broccoli">Broccoli</string>
+    <string name="onions">Onions</string>
+    <string name="no_0_00">No, $0.00</string>
+    <string name="lrg_13_99">Lrg ($13.99)</string>
+    <string name="xlrg_15_99">XLrg ($15.99)</string>
+    <string name="spinach">Spinach</string>
+    <string name="imageView">TODO</string>
+    <string name="imageView2">TODO</string>
+    <string name="imagePizza">pizza_img</string>
+    <string name="tomatoes">Tomatoes</string>
+    <string name="extra_toppings_1_69">Extra Toppings ($1.69)</string>
+</resources>
